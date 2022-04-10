@@ -6,7 +6,7 @@ Many People May have forgot their Medical reports or their medicines, etc. due t
 
 ## What it does
 The Main Objective of this Project is that how and what are the Difficulties that the people Suffered During the crucial time of Covid. So, after the Research was Conducted on Groups of People on this, and factors were taken into consideration and the platform idea was established i.e., Jeevan Aarogya. This Platform will be single solution for all the healthcare facilities. The platform will be a hub for all the Medical Facilities Such as Taking Appointments in Hospitals, Checking Nearby Pharmacy, Blood Banks, Hospitals, etc. Every User will Get a Unique Health ID just like Aadhar card but for Medical Data. With UHID they can store their Medical data on the platform. The user can find Medical Services offered by different Hospitals and its Charges. Services Like Blood Bank, Pharmacy, Pathology Labs, etc can be found via the platform. Hospitals Can upload patients Reports and Data on the Platform directly. It will be hassle free to carry physical copy of reports everywhere you go. Just give the UHID and the Hospitals will be able to get your Health History. Everything will be stored on the UHID for the convenience and can be accessed from any device. Users can update their Health condition, allergies, etc. on their user profile. This can be Issued as a legal document just like a Aadhaar card. Everything will be stored digitally. 
-In a conclusion, the Scope of the project is good in future as everything is Going Digital. Also, everything will be available just by the User ID. This can be very useful in emergencies when every second matters for Saving Someone’s Life.
+In a conclusion, the Scope of the project is good in future as everything is Going Digital. Also, everything will be available just by the User ID. This can be very useful in emergencies when every second matters for Saving Someone’s Life. Senior Citizens can Check Services and Book them from the comfort of their home. Children who live abroad can keep a track on their parents health and can book services that they need from anywhere and anytime. Time Plays crucial role in an accident. Waiting for reports to get treatment can be daanagerous as time to treat a patient matters after an accident. So Patient Medical History can be Found through the UHID in minutes and treatment can be started accordingly. All the allergies, currently ongoing medications, previous surgeries, etc. can be found in a Single place with the help of this platform.
 
 ## How we built it
 1. We Built it using HTML, CSS, JS, Bootstrap, MongoDB, EJS, PHP, SCSS etc.
@@ -56,3 +56,7 @@ The task of carrying physical reports will be ended if this is implemented.
 ## Links To Understand the Project Better:
 1. Adobe XD Link for App Prototype: https://xd.adobe.com/view/61d1669c-d5cd-4f49-ba27-a17f1657762b-3482/
 2. Google Slides PPT for Detailed Overview of the Project: https://docs.google.com/presentation/d/1hACvR8AkFBCQdFp0qQhS6pp07rtrfZ-NFKIAdfqhZTo/edit?usp=sharing
+
+
+
+##P.S: Sorry for the Not so great Video, as my laptop got dead, I used my Mobile to explain my project in the best possible manner and do check out  the Links for more better understanding. Hope You will Understand and Like my Project.
