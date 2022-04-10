@@ -59,4 +59,4 @@ The task of carrying physical reports will be ended if this is implemented.
 
 
 
-## P.S: Sorry for the Not so great Video, as my laptop got dead, I used my Mobile to explain my project in the best possible manner and do check out  the Links for more better understanding. Hope You will Understand and Like my Project.
+## P.S: Sorry for the Not so great Video, as my laptop got dead, I used my Mobile to complete the remaining work and explain my project in the best possible manner and do check out  the Links for more better understanding. Hope You will Understand and Like my Project.
