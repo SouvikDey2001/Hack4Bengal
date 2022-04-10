@@ -15,10 +15,12 @@ In a conclusion, the Scope of the project is good in future as everything is Goi
 4. Filecoin protocols, tools, and services to radically improve the internet. t's a peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open. 
 5. User authentication using Auth0 authentication to make the application secure. Features like social sign-in, Multi-Factor Authentication, and passwordless log-in when you can enable them through Auth0.
 6. GoDaddy Registry for Registering Domain Name.
-7. Hedera To make Web3 development even more accessible so  mamke the system Tamperproof.
-8. Linode Cloud for data storage, compute power or hosting.
-9. twilio Web Service API to send text notifications or email confirmations to the users about their profile.
-10. Github to collaborate, push code, get feedback, and show the world what I've built during a hackathon.
+
+
+8. Hedera To make Web3 development even more accessible so  mamke the system Tamperproof.
+9. Linode Cloud for data storage, compute power or hosting.
+10. twilio Web Service API to send text notifications or email confirmations to the users about their profile.
+11. Github to collaborate, push code, get feedback, and show the world what I've built during a hackathon.
 
 ## Challenges we ran into
 1. To provide a Unique UHID to everyone. No one should have same UHID.
@@ -49,3 +51,8 @@ User's Medications, their Health Conditions, their Previous Check-ups Reports, e
 Doctors can access the Reports of a Particular Patient through Th UHID on their Computers.
 Patients can take appointments, book Services, Book Vaccinations, order medicines and Order Blook Test etc. Through the software from the comfort if their home.
 The task of carrying physical reports will be ended if this is implemented.
+
+
+## Links To Understand the Project Better:
+1. Adobe XD Link for App Prototype: https://xd.adobe.com/view/61d1669c-d5cd-4f49-ba27-a17f1657762b-3482/
+2. Google Slides PPT for Detailed Overview of the Project: https://docs.google.com/presentation/d/1hACvR8AkFBCQdFp0qQhS6pp07rtrfZ-NFKIAdfqhZTo/edit?usp=sharing
