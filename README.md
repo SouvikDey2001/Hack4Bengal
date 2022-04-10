@@ -1,4 +1,4 @@
-# Med-Port
+# Jeevan Aarogya
 
 ## Inspiration
 The inspiration came to me During the Covid-19 Period where people got stuck away from their families in different parts of the world. Many people have gone to visit there loved ones for some time which they didn't knew would become a nightmare. People weren’t Ready for such a disaster. The people who suffered the most were the middle class people. Many People got stuck in unknown places where they knew nothing about the places. Elderly and Medical Patients could not go out to seek medical attention.
